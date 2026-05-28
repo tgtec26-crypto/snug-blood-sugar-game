@@ -1,0 +1,12 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+a { text-decoration: none; }
+
+body {
+  font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+  background: #f0f4f9;
+  color: #0d2b55;
+  min-height: 100vh;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
